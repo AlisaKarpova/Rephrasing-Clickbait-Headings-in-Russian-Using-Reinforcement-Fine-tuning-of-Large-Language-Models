@@ -133,7 +133,7 @@ with open('Woman', 'w', encoding='utf-8') as file:
     for title in news_titles:
         file.write(title + '\n')
 
-"""# Forbes (бизнес) - 1194 (сайт блокирует доступ)
+"""# Forbes (бизнес) - 1194 
 
 
 """
