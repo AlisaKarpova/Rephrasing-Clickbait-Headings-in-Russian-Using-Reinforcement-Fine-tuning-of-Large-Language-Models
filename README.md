@@ -9,6 +9,6 @@ The repository provides viewers with some code of data collecting and creating a
 ```
 
 - generated headline:
-  ```
-  В Москве 9 лет получали пособия на несуществующую дочь
-  ```
+```
+В Москве 9 лет получали пособия на несуществующую дочь
+```
